@@ -1,4 +1,0 @@
-Bundle-Name: portlet-filter
-Bundle-SymbolicName: com.liferay.tasks.portlet.filter
-Bundle-Version: 1.0.0
-Export-Package: com.liferay.tasks.portlet.filter.constants
