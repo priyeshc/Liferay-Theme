@@ -1,0 +1,3 @@
+Bundle-Name: pre-post-login
+Bundle-SymbolicName: com.liferay.tasks.login.events
+Bundle-Version: 1.0.0
