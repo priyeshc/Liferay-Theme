@@ -59,12 +59,12 @@
         <p class="col-12 col-md-6">
           Tel: 4-919-843-6666<br>
           Fax: 4-919-843-6667<br>
-          <a href="mailto:info@lunarresort.com">info@thelunarresort.com</a>
+          <a href="mailto:info@lunarresort.com">info@teslax.com</a>
         </p>
       </div>
     </div>
   </div>
   <p class="powered-by text-center text-white py-3 mb-0">
-    The Lunar Resort-<@liferay.language key="powered-by" /> <a href="http://www.liferay.com" rel="external"> Axeno</a>
+    Tesla X-<@liferay.language key="powered-by" /> <a href="http://www.liferay.com" rel="external"> Axeno</a>
   </p>
 </footer>
